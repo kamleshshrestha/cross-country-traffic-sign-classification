@@ -1,5 +1,7 @@
 # Cross-Country Traffic Sign Classification
 
+> VGG-style CNN trained on German road signs, evaluated on unseen Belgian signs (97.78% test accuracy).
+
 **Module M507 – Methods of Prediction · Final Assignment**
 
 A convolutional neural network trained on **German** road signs (GTSRB) and evaluated on **unseen Belgian** road signs (BTSC). The goal is a classifier that generalizes to a different country, camera setup, lighting and background, rather than one that only scores well on its own training distribution.
